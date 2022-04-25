@@ -1,0 +1,26 @@
+.container{
+text-align: center;
+background-color: white;
+margin: 0% 30%;
+border-style: solid;
+border-color: green;
+border-radius: 30px ;
+box-shadow: 5px 10px green ;
+
+
+}
+.container img {
+    border-radius: 50%;
+    width: 200px;
+    margin: 0 auto;
+}
+body{
+    background-color: rgb(95, 95, 255);
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+h2{
+    color: grey;
+}
