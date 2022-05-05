@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .mydiv {
+    background-color:red;
+    border:3px solid black;
+    height: 100px;
+  }
+  .mydiv.big{
+    height: 200px;
+  }
+  .mydiv.big2{
+    height: 460px;
+  }
+
+  .mydiv.big3{
+    height: 130px;
+  }

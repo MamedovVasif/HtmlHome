@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.mydiv{
+    height: 100px;
+    background-color: red;
+    border: 3px solid black;
+}
+.mydiv.big{
+    height: 300px;
+    background-color: red;
+}
