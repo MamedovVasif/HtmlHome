@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.card1 {
+    background-color: gray;
+    border-radius: 30px;
+    padding: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+.card2 {
+    background-color: gray;
+    border-radius: 30px;
+    padding: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+.card3 {
+    background-color: gray;
+    border-radius: 30px;
+    padding: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+i {
+    font-size: 100px;
+}
+.sp1{
+    display: flex;
+    justify-content: center;
+}
+@media screen and (max-width: 800px) {
+    .container {
+      margin: 70%;
+    }
+  }
